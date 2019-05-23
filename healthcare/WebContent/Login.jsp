@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <style>
 body {
-background-image: url("./img/Bgimage.png");
+background-image: url("./img/caring.jpg");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -92,7 +92,7 @@ button:hover {
 }
 .form {
   position: relative;
-  transform: translate(70%,-15%);
+  transform: translate(-80%,0%);
   z-index: 1;
   background: #FFFFFF;
   max-width: 300px;

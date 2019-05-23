@@ -228,7 +228,13 @@ margin-left: 10px;
         <h1><b>How to Book an Appointment? </b></h1>
 <img src="./img/heart.jpg" />
        
-        <h4><p align="justify">The patients have to select the type of illness that suffer, that also comes with an option of “could not be diagnosed” and have to select the doctor as per their wish and then selecting the day and time of appointment from the list of available slots of the doctor. The patient can select the date and time of the appointment only within the ten days from the current date. After filling the form, our system will generate the unique appointment id which will also be displayed in the doctor’s dashboard as well as patient’s dashboard. After the appointment time has been finished, the doctor has the freedom to set the status of the appointment to “completed” and also will update the prescription which can purchased by the patient after paying it through the patient login.</i></p></h4>
+        <h4><p align="justify"><ul>
+        <li>The patients have to select the type of illness that they suffer, that also comes with an option of "others" if could not be diagnosed</li>
+        <li>Patients have to select the doctor as per their choice</li>
+        <li>Selecting the day and time of appointment from the list of available slots of the doctor</li>
+        <li>The patient can select the date and time of the appointment only within the ten days from the current date</li>
+        <li>After filling the form, the page takes the user to the payment page where the patient have to enter the credit card number and cvv</li>
+        <li>After the payment, our system will generate the unique appointment id which will also be displayed in the doctor's dashboard as well as patient's dashboard.</li></ul></i></p></h4>
  </h4>
    </div>
 <footer class="w3-container w3-padding-16 w3-center w3-dark-gray w3-xlarge" >

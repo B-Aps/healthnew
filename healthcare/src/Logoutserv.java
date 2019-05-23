@@ -34,7 +34,7 @@ public class Logoutserv extends HttpServlet {
 	    PrintWriter out=response.getWriter();
 	    HttpSession session=request.getSession();  
 	    session.invalidate(); 
-	    request.getRequestDispatcher("Login.jsp").include(request,response);
+	    request.getRequestDispatcher("Dashboard.jsp").include(request,response);
 	    
 	    out.println("<html><body>");
         out.println("<script type=\"text/javascript\">");

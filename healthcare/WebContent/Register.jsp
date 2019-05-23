@@ -131,7 +131,7 @@ filter: blur(8px);
   display: table;
 }
 .form {
-  transform: translate(0%,0%);
+  transform: translate(10%,0%);
   position: relative;
   z-index: 1;
   background: #FFFFFF;
