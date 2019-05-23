@@ -82,7 +82,6 @@ nav ul li a:hover
 .team-section{
     overflow: hidden;
     text-align: center;
-   	margin-top: 50px;
     padding: 60px;   
 }
 .team-section h1{
@@ -104,8 +103,7 @@ nav ul li a:hover
     margin-bottom: 40px;   
 }
 .ps{
-    margin-bottom: 100px;
-      margin-top: 50px;
+    margin-bottom: 0px;
     
 }
 .ps a{
@@ -150,7 +148,6 @@ filter: grayscale(100%);
     text-transform: uppercase;
     font-size: 22px;
 }
-
 </style>
 </head>
 <body>
@@ -191,7 +188,7 @@ filter: grayscale(100%);
   style="width:100%">
   <img class="mySlides" src=".\img\caring2.jpg"
   style="width:100%">
-  <img class="mySlides" src=".\img\pat-a-doc.jpg"
+  <img class="mySlides" src=".\img\device.jpg"
   style="width:100%">
   
  </section>

@@ -14,7 +14,7 @@
 body
 {
 	margin:0 auto 0;
-	background-image: url("./img/appoint.jpg");
+	background-image: url("./img/pat-a-doc.jpg");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
