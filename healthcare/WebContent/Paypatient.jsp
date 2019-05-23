@@ -13,6 +13,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:700');
 body
 {
+
 	margin:0 auto 0;
 	/* background-image: url("./img/bg.jpg");
 background-size:cover;
@@ -254,11 +255,11 @@ margin-top: 400px:
 <img src=".\img\care.jpg"
   style="width:100%">
 <footer class="w3-container w3-padding-16 w3-center w3-dark-grey w3-xlarge">
-  <a href="#"><i class="fa fa-facebook-official"></i></a>
-  <a href="#"><i class="fa fa-pinterest-p"></i></a>
-  <a href="#"><i class="fa fa-twitter"></i></a>
-  <a href="#"><i class="fa fa-flickr"></i></a>
-  <a href="#"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/"><i class="fa fa-facebook-official"></i></a>
+  <a href="https://www.pinterest.com"><i class="fa fa-pinterest-p"></i></a>
+  <a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a>
+  <a href="https://www.flickr.com"><i class="fa fa-flickr"></i></a>
+  <a href="https://www.linkedin.com"><i class="fa fa-linkedin"></i></a>
   <p class="w3-medium">
   Powered by <a href="Login.jsp" target="_blank">@copyright-PAT-a-DOC 2019</a>
   </p>

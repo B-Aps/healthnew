@@ -13,17 +13,17 @@
 body
 {
  margin:0 auto 0;
- /* background-image: url("./img/bg.jpg");
+ background-image: url("./img/care.jpg");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; */
+  background-attachment: fixed;
    padding:0;
  font-family: sans-serif;
 }
 nav
 {
- position: fixed;
+ position: relative;
  top:0;
  left:0;
  width:100%;
@@ -152,20 +152,19 @@ filter: blur(8px);
   display: table;
 }
 .form {
-  transform: translate(0%,10%);
+  transform: translate(0%,0%);
   position: relative;
   background-attachment: fixed;
   z-index: 1;
   background: #FFFFFF;
-  max-width: 700px;
+  max-width: 500px;
   margin: 0 230px;
   padding: 50px;
   text-align: left;
   color:gray;
   border-radius:20px;
   border:none;
-  margin-bottom: 200px;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.9);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
 }
 /* Change styles for cancel button and signup button on extra small screens */
@@ -174,22 +173,11 @@ filter: blur(8px);
      width: 100%;
   }
 }
-.foot
+footer
 {
-margin-top: 400px:
+margin-top: 550px;
 }
-.section{ 
-    width: 600px;
-    margin: auto;
-    font-size: 20px;
-    color:white;
-    text-align: justify;
-    height:0;
-    overflow: hidden;
-}
-.section:target{
-    height:auto;
-}
+
 .name{
     display: block;
     margin-bottom: 20px;
@@ -236,15 +224,13 @@ margin-top: 400px:
 </form>
  </div>
 </nav>
-<section class="sec1"><section>
-<img src=".\img\care.jpg"
-  style="width:100%">
+
 <footer class="w3-container w3-padding-16 w3-center w3-dark-grey w3-xlarge">
-  <a href="#"><i class="fa fa-facebook-official"></i></a>
-  <a href="#"><i class="fa fa-pinterest-p"></i></a>
-  <a href="#"><i class="fa fa-twitter"></i></a>
-  <a href="#"><i class="fa fa-flickr"></i></a>
-  <a href="#"><i class="fa fa-linkedin"></i></a>
+ <a href="https://www.facebook.com/"><i class="fa fa-facebook-official"></i></a>
+  <a href="https://www.pinterest.com"><i class="fa fa-pinterest-p"></i></a>
+  <a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a>
+  <a href="https://www.flickr.com"><i class="fa fa-flickr"></i></a>
+  <a href="https://www.linkedin.com"><i class="fa fa-linkedin"></i></a>
   <p class="w3-medium">
   Powered by <a href="Login.jsp" target="_blank">@copyright-PAT-a-DOC 2019</a>
   </p>
