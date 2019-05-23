@@ -63,7 +63,7 @@ public class Loginserv extends HttpServlet {
 
         {
 
-            request.getRequestDispatcher("Nav.jsp").include(request,response);
+            request.getRequestDispatcher("Welcome.jsp").include(request,response);
                 
 
         }

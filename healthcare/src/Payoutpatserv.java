@@ -44,6 +44,8 @@ public class Payoutpatserv extends HttpServlet {
         out.println("alert('Your Appointment Booked Sucessfully view details in your Appointment');");
         out.println("</script>");
         out.println("</body></html>"); 
+        request.getRequestDispatcher("Nav.jsp").include(request,response);        
+
 	}
 
 }

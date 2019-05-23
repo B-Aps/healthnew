@@ -14,7 +14,7 @@
 body
 {
 	margin:0 auto 0;
-	background-image: url("./img/pat-a-doc.jpg");
+	background-image: url("./img/stt.jpg");
 background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -145,7 +145,7 @@ filter: blur(8px);
   color:#606060;
   border-radius:20px;
   border:none;
-  background: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.8);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);/
 }
 /* Change styles for cancel button and signup button on extra small screens */
@@ -160,7 +160,7 @@ filter: blur(8px);
 	margin-right:20px;
 	border-radius:20px;
   border:none;
-  background: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.8);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); 
   margin-bottom: 0;
    
